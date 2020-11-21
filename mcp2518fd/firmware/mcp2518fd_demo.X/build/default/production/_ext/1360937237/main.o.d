@@ -1,0 +1,147 @@
+build/default/production/_ext/1360937237/main.o: ../src/main.c \
+ ../src/config/default/definitions.h \
+ ../src/config/default/peripheral/nvmctrl/plib_nvmctrl.h \
+ ../src/config/default/device.h \
+ ../src/packs/ATSAMD21G17D_DFP/atsamd21g17d.h \
+ ../src/packs/CMSIS/CMSIS/Core/Include/core_cm0plus.h \
+ ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_version.h \
+ ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
+ ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_gcc.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/ac.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/adc.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/dac.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/dmac.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/dsu.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/eic.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/evsys.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/gclk.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/hmatrixb.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/i2s.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/mtb.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/nvmctrl.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/pac.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/pm.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/port.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/ptc.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/rtc.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/sercom.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/sysctrl.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/tc.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/tcc.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/usb.h \
+ ../src/packs/ATSAMD21G17D_DFP/component/wdt.h \
+ ../src/packs/ATSAMD21G17D_DFP/pio/samd21g17d.h \
+ ../src/config/default/device_cache.h ../src/config/default/device.h \
+ ../src/config/default/toolchain_specifics.h \
+ ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
+ ../src/config/default/peripheral/sercom/spi_master/plib_sercom1_spi_master.h \
+ ../src/config/default/peripheral/sercom/spi_master/plib_sercom_spi_master_common.h \
+ ../src/config/default/peripheral/evsys/plib_evsys.h \
+ ../src/config/default/peripheral/port/plib_port.h \
+ ../src/config/default/peripheral/clock/plib_clock.h \
+ ../src/config/default/peripheral/nvic/plib_nvic.h \
+ ../src/config/default/peripheral/systick/plib_systick.h \
+ ../src/config/default/peripheral/sercom/usart/plib_sercom5_usart.h \
+ ../src/config/default/peripheral/sercom/usart/plib_sercom_usart_common.h \
+ ../src/driver/mcp25xxfd_driver/drv_canfdspi_api.h \
+ ../src/driver/mcp25xxfd_driver/drv_canfdspi_defines.h \
+ ../src/driver/mcp25xxfd_driver/drv_canfdspi_register.h \
+ ../src/app/canfd.h
+
+../src/config/default/definitions.h:
+
+../src/config/default/peripheral/nvmctrl/plib_nvmctrl.h:
+
+../src/config/default/device.h:
+
+../src/packs/ATSAMD21G17D_DFP/atsamd21g17d.h:
+
+../src/packs/CMSIS/CMSIS/Core/Include/core_cm0plus.h:
+
+../src/packs/CMSIS/CMSIS/Core/Include/cmsis_version.h:
+
+../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h:
+
+../src/packs/CMSIS/CMSIS/Core/Include/cmsis_gcc.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/ac.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/adc.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/dac.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/dmac.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/dsu.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/eic.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/evsys.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/gclk.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/hmatrixb.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/i2s.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/mtb.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/nvmctrl.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/pac.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/pm.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/port.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/ptc.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/rtc.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/sercom.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/sysctrl.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/tc.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/tcc.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/usb.h:
+
+../src/packs/ATSAMD21G17D_DFP/component/wdt.h:
+
+../src/packs/ATSAMD21G17D_DFP/pio/samd21g17d.h:
+
+../src/config/default/device_cache.h:
+
+../src/config/default/device.h:
+
+../src/config/default/toolchain_specifics.h:
+
+../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h:
+
+../src/config/default/peripheral/sercom/spi_master/plib_sercom1_spi_master.h:
+
+../src/config/default/peripheral/sercom/spi_master/plib_sercom_spi_master_common.h:
+
+../src/config/default/peripheral/evsys/plib_evsys.h:
+
+../src/config/default/peripheral/port/plib_port.h:
+
+../src/config/default/peripheral/clock/plib_clock.h:
+
+../src/config/default/peripheral/nvic/plib_nvic.h:
+
+../src/config/default/peripheral/systick/plib_systick.h:
+
+../src/config/default/peripheral/sercom/usart/plib_sercom5_usart.h:
+
+../src/config/default/peripheral/sercom/usart/plib_sercom_usart_common.h:
+
+../src/driver/mcp25xxfd_driver/drv_canfdspi_api.h:
+
+../src/driver/mcp25xxfd_driver/drv_canfdspi_defines.h:
+
+../src/driver/mcp25xxfd_driver/drv_canfdspi_register.h:
+
+../src/app/canfd.h:

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/app/app.c</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/app/canfd.c</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/driver/mcp25xxfd_driver/drv_canfdspi_api.c</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/main.c</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/config/default/peripheral/systick/plib_systick.c</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/app/canfd.h</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/config/default/definitions.h</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/driver/mcp25xxfd_driver/drv_canfdspi_defines.h</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/config/default/peripheral/port/plib_port.h</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/config/default/peripheral/sercom/spi_master/plib_sercom1_spi_master.c</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/driver/mcp25xxfd_driver/drv_canfdspi_register.h</file>
+            <file>file:/C:/work/work_space/work_space_mcu32/harmonyv3/D21/mcp2518fd/firmware/src/app/app.h</file>
+        </group>
+    </open-files>
+</project-private>

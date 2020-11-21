@@ -1,7 +1,7 @@
 # mcp2518fd-based-on-atsamd21g17d
 Objective:
 ==========
-This repository contains an example of mcp2518fd operation with the SPI interface to MCU ATSAMD21G17D. Mainly of this code is from Microchip's example (using another mcu).
+This repository contains an example of mcp2518fd operation with the SPI interface to MCU ATSAMD21G17D. Mainly of this code is from Microchip's example.
 
 Related Documentation:
 =====================

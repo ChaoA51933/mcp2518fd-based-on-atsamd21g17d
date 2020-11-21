@@ -14,8 +14,8 @@ Software Used:
 1) [MPLAB® X IDE 5.45](microchip.com/mplab/mplab-x-ide)
 2) [MPLAB® XC16 2.50](microchip.com/mplab/compilers)
 3) [MPLAB® Harmony Configurator (MHC) 3.6.1](https://www.microchip.com/mplab/mplab-harmony)
-4) [CMSIS 5.6.0]
-5) [SAMD21_DFP 3.3.98]
+4) CMSIS 5.6.0
+5) SAMD21_DFP 3.3.98
 
 Hardware Used:
 =============

@@ -27,7 +27,7 @@ Setup:
 ======
 The test boards I do the test is as follow.
 
-![image](https://github.com/ChaoA51933/mcp2518fd-based-on-atsamd21g17d/images/hardware_platform.jpg) 
+![image](https://github.com/ChaoA51933/mcp2518fd-based-on-atsamd21g17d/tree/main/images/hardware_platform.jpg) 
 
 The following picture describe the interface of hardware and software.
 

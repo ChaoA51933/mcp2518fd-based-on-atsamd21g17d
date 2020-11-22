@@ -8,6 +8,7 @@ Related Documentation:
 1) [MCP2518FD-Data-Sheet-20006027A](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP2518FD-Data-Sheet-20006027A.pdf)
 2) [MCP25XXFD-CAN-FD-Controller-Module-Family-Reference-Manual-DS20005678E](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP25XXFD-CAN-FD-Controller-Module-Family-Reference-Manual-DS20005678E.pdf)
 3) [SAM_D21_DA1_Family_DataSheet_DS40001882F](https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_DataSheet_DS40001882F.pdf)
+4）[DSC60xxB-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20006133A](https://ww1.microchip.com/downloads/en/DeviceDoc/DSC60xxB-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20006133A.pdf)
 
 Software Used:
 ==============

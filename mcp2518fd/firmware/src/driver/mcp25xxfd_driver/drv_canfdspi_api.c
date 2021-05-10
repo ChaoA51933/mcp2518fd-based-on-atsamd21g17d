@@ -64,10 +64,10 @@
 // Section: Variables
 
 //! SPI Transmit buffer
-uint8_t spiTransmitBuffer[SPI_DEFAULT_BUFFER_LENGTH];
+uint8_t spiTransmitBuffer[SPI_DEFAULT_BUFFER_LENGTH + 4];
 
 //! SPI Receive buffer
-uint8_t spiReceiveBuffer[SPI_DEFAULT_BUFFER_LENGTH];
+uint8_t spiReceiveBuffer[SPI_DEFAULT_BUFFER_LENGTH + 4];
 
 //! Reverse order of bits in byte
 const uint8_t BitReverseTable256[256] = {

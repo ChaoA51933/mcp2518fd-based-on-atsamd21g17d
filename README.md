@@ -9,6 +9,7 @@ Related Documentation:
 2) [MCP25XXFD-CAN-FD-Controller-Module-Family-Reference-Manual-DS20005678E](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP25XXFD-CAN-FD-Controller-Module-Family-Reference-Manual-DS20005678E.pdf)
 3) [SAM_D21_DA1_Family_DataSheet_DS40001882F](https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_DataSheet_DS40001882F.pdf)
 4) [DSC60xxB-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20006133A](https://ww1.microchip.com/downloads/en/DeviceDoc/DSC60xxB-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20006133A.pdf)
+5) [CAN控制器MCP2518FD](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzAxODgwMjkyOA==&scene=1&album_id=1622241965176127489&count=3&uin=MjU5ODU0MjYyMQ%3D%3D&key=ed7462f44d808092258ed3ede7816268dfcfe65a800ffc82a7399b0cd02519555af728fdc775a5869af9403e6e1ec92e6dd8f9bbe0e25b8e58564bc5932be700bd5d94cdec012f57022053a7fcfe022692b596dfdc0655c5920ccd82a561b4fb8a7b2a6460740e672c5e498fb9765405e1eb2e2369d0b071fed1465efb103a76&devicetype=Windows+10&version=62060833&lang=en&ascene=1&pass_ticket=TeVtLWj0cGGiXuN%2BEjKpj4GlBmA98XPreYEvslulQEXsVx49Rbsq9Zjxfs%2BrCfBy)
 
 Software Used:
 ==============
